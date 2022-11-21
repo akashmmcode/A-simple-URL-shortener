@@ -3,7 +3,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <b>Akash</b>
+      <b>Akash.MM</b>
       <span class="sup">&reg;</span>
     </footer>
   );
