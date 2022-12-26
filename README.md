@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Open https://papaya-piroshki-4c6335.netlify.app in your browser to view the website <br>
+
 ## Available Scripts
 
 In the project directory, you can run:
